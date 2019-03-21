@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Model">
+      <UniqueIdentifier>{7a52650c-8f9d-4101-8b84-63713a37631d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Model\Character">
+      <UniqueIdentifier>{419a4d54-1556-4fb7-9d57-34f9699d0372}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Model\Map">
+      <UniqueIdentifier>{fcb4580a-bdd9-465a-b516-46c4350647f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Model\UserInterface">
+      <UniqueIdentifier>{741f72f9-8aa2-44a6-92fc-666b98e4b791}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Data">
+      <UniqueIdentifier>{d3cbefc6-9912-4ac7-840f-2c569bcdc3ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Data\ActionController">
+      <UniqueIdentifier>{2236f719-5894-452b-b986-a28adf748098}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Data\EnemyLaunchData">
+      <UniqueIdentifier>{042fe6a1-4ecf-4f96-bfcc-9fc6581ac666}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Data\GameData">
+      <UniqueIdentifier>{8d42553f-1dd3-4eab-a4d6-8845a300068d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Data\MapData">
+      <UniqueIdentifier>{debc43d4-5eae-4f1f-9fc6-45d706731ecc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Data\Status">
+      <UniqueIdentifier>{113e4928-9aaa-4345-b082-9851720c828b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Lib">
+      <UniqueIdentifier>{b1785eb5-afc2-4ee2-9fd1-69d296cecc99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Lib\InputManager">
+      <UniqueIdentifier>{1e93c779-4a44-4e37-b909-3edb0d9f7b9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Scene">
+      <UniqueIdentifier>{ea07450e-576a-421e-be9e-7cdd85999e5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Scene\Back">
+      <UniqueIdentifier>{61e283a9-f30f-44f6-803f-adbfb8116e30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Scene\GameMain">
+      <UniqueIdentifier>{64bdbaed-641f-4210-8a7e-76fdc885c60a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Scene\Loading">
+      <UniqueIdentifier>{f795dd11-1428-42a3-8733-068410b0b4d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Scene\Option">
+      <UniqueIdentifier>{bdcc528d-edaf-4270-9daa-7ee690a0d62f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Scene\Replay">
+      <UniqueIdentifier>{e17c609c-aa44-4684-9edf-d758e72cc45a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Scene\ReplaySelect">
+      <UniqueIdentifier>{b0ae2e3b-3ae5-4cab-a826-a87ce5862757}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Scene\StageTitle">
+      <UniqueIdentifier>{c8a4bfd2-47bc-493f-a47f-43141e691089}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Scene\Title">
+      <UniqueIdentifier>{635ca3b9-63e8-45e0-995e-c39edc5451dd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Character\Character.cpp">
+      <Filter>src\Model\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Map\Map.cpp">
+      <Filter>src\Model\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\UserInterface\UserInterface.cpp">
+      <Filter>src\Model\UserInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Data\ActionController\ActionController.cpp">
+      <Filter>src\Data\ActionController</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Data\EnemyLaunchData\EnemyLaunchData.cpp">
+      <Filter>src\Data\EnemyLaunchData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Data\GameData\GameData.cpp">
+      <Filter>src\Data\GameData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Data\MapData\MapData.cpp">
+      <Filter>src\Data\MapData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Data\Status\Status.cpp">
+      <Filter>src\Data\Status</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lib\InputManager\InputJoystick.cpp">
+      <Filter>src\Lib\InputManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lib\InputManager\InputManager.cpp">
+      <Filter>src\Lib\InputManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\Back\Back.cpp">
+      <Filter>src\Scene\Back</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\GameMain\GameMain.cpp">
+      <Filter>src\Scene\GameMain</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\Loading\Loading.cpp">
+      <Filter>src\Scene\Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\Option\Option.cpp">
+      <Filter>src\Scene\Option</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\Replay\Replay.cpp">
+      <Filter>src\Scene\Replay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\ReplaySelect\ReplaySelect.cpp">
+      <Filter>src\Scene\ReplaySelect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\StageTitle\StageTitle.cpp">
+      <Filter>src\Scene\StageTitle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\Title\Title.cpp">
+      <Filter>src\Scene\Title</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h" />
+    <ClInclude Include="..\Classes\Model\Character\Character.h">
+      <Filter>src\Model\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Map\Map.h">
+      <Filter>src\Model\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\UserInterface\UserInterface.h">
+      <Filter>src\Model\UserInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Data\ActionController\ActionController.h">
+      <Filter>src\Data\ActionController</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Data\EnemyLaunchData\EnemyLaunchData.h">
+      <Filter>src\Data\EnemyLaunchData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Data\GameData\GameData.h">
+      <Filter>src\Data\GameData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Data\MapData\MapData.h">
+      <Filter>src\Data\MapData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Data\Status\Status.h">
+      <Filter>src\Data\Status</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lib\InputManager\InputJoystick.h">
+      <Filter>src\Lib\InputManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lib\InputManager\InputManager.h">
+      <Filter>src\Lib\InputManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\Back\Back.h">
+      <Filter>src\Scene\Back</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\GameMain\GameMain.h">
+      <Filter>src\Scene\GameMain</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\Loading\Loading.h">
+      <Filter>src\Scene\Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\Option\Option.h">
+      <Filter>src\Scene\Option</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\Replay\Replay.h">
+      <Filter>src\Scene\Replay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\ReplaySelect\ReplaySelect.h">
+      <Filter>src\Scene\ReplaySelect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\StageTitle\StageTitle.h">
+      <Filter>src\Scene\StageTitle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\Title\Title.h">
+      <Filter>src\Scene\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Constants.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="game1.rc" />
+  </ItemGroup>
+</Project>

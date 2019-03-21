@@ -1,0 +1,171 @@
+﻿  AppDelegate.cpp
+  ActionController.cpp
+  EnemyLaunchData.cpp
+  MapData.cpp
+  InputJoystick.cpp
+  InputManager.cpp
+  Character.cpp
+  Map.cpp
+..\Classes\Lib\InputManager\InputManager.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+D:\game\Classes\Lib/InputManager/InputManager.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Lib\InputManager\InputJoystick.cpp)
+d:\game\classes\lib\inputmanager\InputManager.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Lib\InputManager\InputManager.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\AppDelegate.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Model\Map\Map.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Lib\InputManager\InputManager.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Model\Character\Character.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Data\EnemyLaunchData\EnemyLaunchData.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Data\ActionController\ActionController.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Data\MapData\MapData.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Lib\InputManager\InputJoystick.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\AppDelegate.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Data\ActionController\ActionController.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Model\Map\Map.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Lib\InputManager\InputManager.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Data\EnemyLaunchData\EnemyLaunchData.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Model\Character\Character.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Data\MapData\MapData.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Lib\InputManager\InputJoystick.cpp)
+d:\game\classes\Lib/InputManager/InputManager.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\AppDelegate.cpp)
+D:\game\Classes\Lib/InputManager/InputManager.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Model\Character\Character.cpp)
+  UserInterface.cpp
+  Back.cpp
+  GameMain.cpp
+  Loading.cpp
+  Option.cpp
+  ReplaySelect.cpp
+  Replay.cpp
+  StageTitle.cpp
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\Loading\Loading.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\GameMain\GameMain.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Model\UserInterface\UserInterface.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\Option\Option.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\Back\Back.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\ReplaySelect\ReplaySelect.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\Replay\Replay.cpp)
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\StageTitle\StageTitle.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Model\UserInterface\UserInterface.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\Loading\Loading.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\GameMain\GameMain.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\Option\Option.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\Back\Back.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\ReplaySelect\ReplaySelect.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\Replay\Replay.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\StageTitle\StageTitle.cpp)
+D:\game\Classes\Lib/InputManager/InputManager.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\GameMain\GameMain.cpp)
+D:\game\Classes\Lib/InputManager/InputManager.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\Option\Option.cpp)
+..\Classes\Scene\Loading\Loading.cpp(123): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Option\Option.cpp(82): warning C4996: 'cocos2d::Layer::setKeyboardEnabled': が古い形式として宣言されました。
+..\Classes\Scene\Loading\Loading.cpp(125): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\2d/CCLayer.h(207): note: 'cocos2d::Layer::setKeyboardEnabled' の宣言を確認してください
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(127): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(129): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(131): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(133): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(135): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(137): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(139): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(141): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(143): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(145): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(147): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(149): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(151): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(153): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(155): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(157): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(159): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(161): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(163): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(165): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(167): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+..\Classes\Scene\GameMain\GameMain.cpp(391): warning C4996: 'cocos2d::CCRenderTexture': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\deprecated/CCDeprecated.h(797): note: 'cocos2d::CCRenderTexture' の宣言を確認してください
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(169): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(171): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(173): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(175): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(177): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(179): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(181): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(182): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+..\Classes\Scene\GameMain\GameMain.cpp(123): warning C4996: 'cocos2d::Layer::setKeyboardEnabled': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\2d/CCLayer.h(207): note: 'cocos2d::Layer::setKeyboardEnabled' の宣言を確認してください
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(183): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(184): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(185): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(186): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(187): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(188): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+..\Classes\Scene\Loading\Loading.cpp(189): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\renderer/CCTextureCache.h(69): note: 'cocos2d::TextureCache::sharedTextureCache' の宣言を確認してください
+D:\game\Classes\Lib/InputManager/InputManager.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\ReplaySelect\ReplaySelect.cpp)
+..\Classes\Scene\ReplaySelect\ReplaySelect.cpp(86): warning C4996: 'cocos2d::Layer::setKeyboardEnabled': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\2d/CCLayer.h(207): note: 'cocos2d::Layer::setKeyboardEnabled' の宣言を確認してください
+D:\game\Classes\Lib/InputManager/InputManager.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\Replay\Replay.cpp)
+..\Classes\Scene\Replay\Replay.cpp(70): warning C4996: 'cocos2d::Layer::setKeyboardEnabled': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\2d/CCLayer.h(207): note: 'cocos2d::Layer::setKeyboardEnabled' の宣言を確認してください
+D:\game\Classes\Lib/InputManager/InputManager.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\StageTitle\StageTitle.cpp)
+  Title.cpp
+d:\game\cocos2d\cocos\base/ccUTF8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\Title\Title.cpp)
+d:\game\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\Title\Title.cpp)
+D:\game\Classes\Lib/InputManager/InputManager.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\Scene\Title\Title.cpp)
+..\Classes\Scene\Title\Title.cpp(93): warning C4996: 'cocos2d::CCRenderTexture': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\deprecated/CCDeprecated.h(797): note: 'cocos2d::CCRenderTexture' の宣言を確認してください
+..\Classes\Scene\Title\Title.cpp(85): warning C4996: 'cocos2d::Layer::setKeyboardEnabled': が古い形式として宣言されました。
+  d:\game\cocos2d\cocos\2d/CCLayer.h(207): note: 'cocos2d::Layer::setKeyboardEnabled' の宣言を確認してください
+     ライブラリ D:\game\proj.win32\Release.win32\game.lib とオブジェクト D:\game\proj.win32\Release.win32\game.exp を作成中
+  コード生成しています。
+  74 of 1231 functions ( 6.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  game.vcxproj -> D:\game\proj.win32\Release.win32\game.exe
+  game.vcxproj -> D:\game\proj.win32\Release.win32\game.pdb (Full PDB)
+  D:\game\Resources\config.dat -> D:\game\proj.win32\Release.win32\config.dat
+  D:\game\Resources\replay_1.dat -> D:\game\proj.win32\Release.win32\replay_1.dat
+  D:\game\Resources\replay_10.dat -> D:\game\proj.win32\Release.win32\replay_10.dat
+  D:\game\Resources\replay_2.dat -> D:\game\proj.win32\Release.win32\replay_2.dat
+  D:\game\Resources\replay_3.dat -> D:\game\proj.win32\Release.win32\replay_3.dat
+  D:\game\Resources\replay_4.dat -> D:\game\proj.win32\Release.win32\replay_4.dat
+  D:\game\Resources\replay_5.dat -> D:\game\proj.win32\Release.win32\replay_5.dat
+  D:\game\Resources\replay_6.dat -> D:\game\proj.win32\Release.win32\replay_6.dat
+  D:\game\Resources\replay_7.dat -> D:\game\proj.win32\Release.win32\replay_7.dat
+  D:\game\Resources\replay_8.dat -> D:\game\proj.win32\Release.win32\replay_8.dat
+  10 個のファイルをコピーしました
