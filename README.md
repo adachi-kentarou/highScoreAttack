@@ -2,10 +2,10 @@
 cocos2dゲームリポジトリ  
 
 # 開発環境
-* (python)[https://www.python.org/downloads/]  
+* [python](https://www.python.org/downloads/)  
 cocos2dのインストールに必要　
-* (cocos2d-x-3.15.1  
-Cocos Console 2.3)[https://cocos2d-x.org/download]  
+* [cocos2d-x-3.15.1  
+Cocos Console 2.3](https://cocos2d-x.org/download)  
 新規にcocos2dプロジェクトを立ち上げる場合はコマンドから  
 ```bash
 cocos new プロジェクト名 -p 識別子任意の名前 -l cpp -d 作成ディレクトリのパス
