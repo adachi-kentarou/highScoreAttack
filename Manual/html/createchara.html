@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>キャラクター自動生成</title>
+</head>
+<body>
+    <div>
+        <h1>キャラクター移動自動生成</h1>
+        大まかな生成方法説明。<br>
+        ソースコードは Classes\Data\MapData\MapData.cpp参照<br>
+        敵の移動は左から右に移動するパターンと右から左に移動するパターンがある。<br>
+        <br>
+        <img src="./img/map7.png" width="606" height="351"><br>
+        右から左に移動する場合、まず左端のマス目に１の番号を付ける。<br>
+        １のマスに隣接するマスに１加算した番号を付ける。<br>
+        画面右端まで同じ処理を繰り返す。<br>
+        <br>
+        <img src="./img/map8.png" width="606" height="351"><br>
+        ランダムにマスにキャラを配置しそのマスの番号よりも小さい番号のマスに移動させる。<br>
+        移動候補が複数ある場合はランダムに選ぶ。<br>
+        画面左端まで同じ処理を繰り返す。<br>
+        <br>
+        <img src="./img/map9.png" width="606" height="351"><br>
+        左から右に移動する場合は逆の処理を行う。<br>
+        <br>
+    </div>
+</body>
+</html>

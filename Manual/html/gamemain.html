@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>ゲーム画面</title>
+</head>
+<body>
+    <div>
+        <h1>ゲーム画面</h1>
+        <img src="./img/display6.png" width="640" height="580"><br>
+        ①プレイヤーキャラクター....プレイヤーが操作できる。<br>
+        ②<a href="chara.html" target="test3">敵キャラクター</a>...........一定以上ショットを当てると撃破しスコアが加算される。<br>
+    ③<a href="item.html" target="test3">アイテム</a>.................確率で敵を倒すと出現する。取ると各種攻撃のレベルアップやプレイヤーのステータスが上がる。<br>
+    ④スコア..................敵を撃破すると加算される。ゲーム終了時にHigh Scoreを更新すると記録される。<br>
+    ⑤HP.....................敵や敵の弾に被弾すると減少し0でプレイヤー残機数が1減る。<br>
+    ⑥プレイヤー残機数.......プレイヤーの残り残機数。0の状態でHP0になるとゲームオーバー。<br>
+    ⑦ボム数.................ボムボタンを押すことで画面全体にダメージを与えることができる回数。<br>
+    ⑧ステージナンバー.......現在のステージナンバー。ステージの最後にボスを倒すと次のステージに進む。全部で3ステージ。<br>
+    ⑨<a href="wepon.html" target="test3">攻撃タイプ一覧</a>.........攻撃切り替えボタンで攻撃を切り替えられる。下が攻撃名、上がそのレベルを表す。<br>
+    ⑩予告エフェクト.........後ろから出現する敵の位置を事前に予告する。<br>
+        <br>
+    <h1>ポーズ</h1>
+    <img src="./img/display5.png" width="640" height="580"><br>
+    ゲーム画面でポーズボタンを押すと表示される。<br>
+    PLAY.....ゲームに復帰する。<br>
+    RETURN...ゲームを最初からやり直す。<br>
+    END......<a href="replay.html" target="test3">リプレイ選択画面に移動。</a><br>
+    <br>
+    <h1>ゲームオーバー</h1>
+    <img src="./img/display7.png" width="640" height="580"><br>
+    残機数0でHPが0になると表示される。<br>
+    RETURN.....最初のステージからやり直し。<br>
+    END........<a href="replay.html" target="test3">リプレイ選択画面に移動。</a><br>
+    </div>
+</body>
+</html>

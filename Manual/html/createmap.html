@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>地形自動生成</title>
+</head>
+<body>
+    <div>
+        <h1>地形自動生成</h1>
+        大まかな生成方法説明。<br>
+        ソースコードは Classes\Data\MapData\MapData.cpp参照<br>
+        <img src="./img/map1.png" width="621" height="115"><br>
+        マップ自動生成したい範囲をマス目状に区切る。<br>
+        マス目のサイズはキャラクターが移動できるサイズにする。<br>
+        <br>
+        <img src="./img/map2.png" width="621" height="115"><br>
+        マス目の左端から右端までマス目上でランダムに線を結ぶ。<br>
+        このマス目には壁を配置しないようにする。<br>
+        これによりプレイヤーはマップを端から端まで通り抜けられることが保証される。<br>
+        <br>
+        <img src="./img/map3.png" width="621" height="115"><br>
+        マップを一定間隔でエリア分けする。<br>
+        エリア毎に作成する地形や出現する敵の種類、数をランダムに決める。<br>
+        <br>
+        <img src="./img/map4.png" width="621" height="115"><br>
+        天井と床の地形を作成する。<br>
+        <br>
+        <img src="./img/map5.png" width="621" height="115"><br>
+        山地形を作成する。<br>
+        <br>
+        <img src="./img/map6.png" width="621" height="115"><br>
+        上下の地形の間に岩地形を作成する。<br>
+        <br>
+    </div>
+</body>
+</html>
