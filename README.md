@@ -2,6 +2,7 @@
 cocos2dゲームリポジトリ  
 
 # 開発環境
+* Editor Visual Studio 2017
 * [python](https://www.python.org/downloads/)  
 cocos2dのインストールに必要　
 * [cocos2d-x-3.15.1  
